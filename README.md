@@ -3,5 +3,5 @@
 
 -🌱 I’m currently learning React.Js
 
--🎮Techs that I'm using mostly : Javascript , Html , Tailwind css, React.js
+-🎮Techs that I'm using mostly : Javascript , Html ,Css ,  Tailwind css, React.js
 
